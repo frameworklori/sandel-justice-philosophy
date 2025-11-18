@@ -53,8 +53,6 @@ II. 第三講核心概念（中文）
 
 III. LORI View (English)
 
-My Original Commentary (clean, polished, GitHub-ready)
-
 Personal wealth can never belong entirely to the individual,
 for its creation depends not only on one’s own effort,
 but also on the stability, institutions, and emotional climate of the society that surrounds it.
@@ -69,8 +67,6 @@ and ultimately protecting their own safety and long-term prosperity.”
 ⸻
 
 IV. LORI的觀點（中文）
-
-（精準、正式、可直接放入 GitHub）
 
 個人的財富從來不可能100%屬於個人，
 因為財富的形成不只是來自個人的努力，
