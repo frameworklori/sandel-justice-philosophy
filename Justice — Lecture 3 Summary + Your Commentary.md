@@ -1,4 +1,4 @@
-# Justice — Lecture 3 Summary + Your Commentary
+# Justice — Lecture 3 Summary + my Commentary
 
 I. Core Concept of Lecture 3（English）
 
