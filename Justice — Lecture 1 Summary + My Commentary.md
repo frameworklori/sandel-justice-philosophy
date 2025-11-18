@@ -1,4 +1,4 @@
-Justice — Lecture 1 Summary + My Commentary.md
+# Justice — Lecture 1 Summary + My Commentary.md
 
 I. Lecture 1 Summary — The Mignonette Case (1884)
 
