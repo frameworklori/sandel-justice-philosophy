@@ -2,6 +2,8 @@
 
 I. Core Concept of Lecture 3（English）
 
+Harvard Justice, Lecture 3
+
 “Do we own ourselves?” — Libertarianism vs. Social Obligations
 
 In Lecture 3 of Michael Sandel’s Justice, the central debate is whether individuals
