@@ -38,7 +38,7 @@ Because property is a natural right, the government exists to protect life, libe
 South Africa shows what happens when government itself becomes the violator.
 Taiwan shows what happens when government protects and restores property rights.
 
-My Insight (English Version)
+Lori Insight (English Version)
 
 In Locke’s framework, the starting point of land distribution reveals the moral structure of a society. The core problem in South Africa was that colonial powers used law to define ownership and force to determine who could possess land—directly violating Locke’s two foundational principles. In contrast, Taiwan’s Land-to-the-Tiller reform returned land to those who actually cultivated it, realizing Locke’s idea that labor creates rightful ownership. This helps me understand why Locke insists on the necessity of limited government—only a government formed through the consent of the governed can avoid violating people’s natural rights to life, liberty, and property. Whether a land system is just or unjust often determines whether a political order develops toward freedom or toward authoritarianism.
 
@@ -96,6 +96,6 @@ In Locke’s framework, the starting point of land distribution reveals the mora
 
 ⸻
 
-我的見解
+Lori 的見解
 
 在洛克的框架下，土地分配的起點最能反映一個社會的正義結構。南非的問題根源在於：殖民者用「法律」定義何謂所有權，用「武力」決定誰能擁有土地，直接違背了洛克的兩大前提。相反，台灣的耕者有其田透過把土地還給真正耕作的人，實現了勞動帶來所有權的原則。這讓我更理解洛克為何強調需要有限政府——因為只有人民共同同意的政府，才不會剝奪人的生命、自由和財產。土地制度的公平與否，往往決定了整個政治體制會走向自由還是專制。
