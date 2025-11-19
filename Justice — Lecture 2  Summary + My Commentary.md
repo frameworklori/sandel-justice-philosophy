@@ -20,6 +20,47 @@ Mill:
 > “Better to be a human being dissatisfied than a pig satisfied.”
 
 ---
+2. My Commentary
+2.1 Can Value, Transactions, and Life Be Priced?
+Human beings engage in transactions to satisfy needs, from bartering to monetary systems, which made value quantifiable.
+But whether life and dignity can be quantified is another issue.
+
+Democratic countries:
+Human rights and dignity are valued; utilitarianism is constrained by law and morality.
+
+Authoritarian countries:
+People are treated as state property; organs can be priced, and children can be bought and sold.
+Utilitarianism degenerates into pure profit calculation, eroding all boundaries of humanity and morality.
+
+2.2 My Understanding of the Core Issue
+The mentality of "mocking the poor but not the prostitute" is a result of human nature being marketized.
+When everything in society has a price tag, it means people are no longer the end, but become the means.
+
+3. Explanation: Comparison of Shakespeare, Extreme Sports, and The Simpsons
+3.1 Shakespeare → Higher-level happiness
+Requires mental activity, imagination, emotional depth, and cultural understanding.
+
+3.2 Extreme Sports → Intense but lower-level happiness
+Sensory stimulation and adrenaline rush, but short-lived.
+
+3.3 The Simpsons → Lower-level mass entertainment happiness
+Easily accessible, requires no thought, consumable.
+
+3.4 I like Shakespeare; what he says has deep meanings, hints, metaphors, and structure,
+which allow space for imagination and for exploring more possibilities in depth. It makes me want to verify if what he says is true.
+
+4. Core Reflection
+The greatest problem of utilitarianism is:
+It turns all values into a numeric measurement of pleasure, ignoring dignity, character, and moral boundaries.
+
+Where dignity is absent, utilitarianism turns into:
+
+People being priced
+People treated as tools
+Moral degeneration
+A society with only prices, but no true values
+
+-----
 
 ## 2. My Commentary (中文)
 
