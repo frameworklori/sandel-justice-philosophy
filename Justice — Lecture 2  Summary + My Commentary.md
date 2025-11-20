@@ -46,8 +46,11 @@ Sensory stimulation and adrenaline rush, but short-lived.
 3.3 The Simpsons → Lower-level mass entertainment happiness
 Easily accessible, requires no thought, consumable.
 
-3.4 I like Shakespeare; what he says has deep meanings, hints, metaphors, and structure,
-which allow space for imagination and for exploring more possibilities in depth. It makes me want to verify if what he says is true.
+# LORI View (English version):
+
+I like Shakespeare. The things he says carry profound meaning, hints, metaphors, and structure.
+They provide space for imagination, allowing for endless, in-depth exploration of many possibilities.
+Is it truly like this? I want to learn and verify his statements.
 
 4. Core Reflection
 The greatest problem of utilitarianism is:
