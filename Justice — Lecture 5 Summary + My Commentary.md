@@ -101,7 +101,7 @@ obligations become oppression, not duty.
 
 ⸻
 
-✦ LORI VIEW
+#  LORI VIEW
 
 A Civilized Duty Requires a Complete Institutional Circle
 
@@ -113,9 +113,86 @@ Only when the institutional design is whole and fair can obligations truly becom
 
 A broken system produces soldiers by coercion. A complete system produces citizens by dignity.
 
+#  Lori’s Model: A Hybrid Military System for Justice and Effectiveness
+
+(English Version)
+
+I. Why a Hybrid System Is Preferable
+
+A purely mandatory draft violates autonomy and risks sacrificing inexperienced citizens.
+A purely volunteer army relies too heavily on economic inequality.
+A fully outsourced military commodifies life and disconnects war from society.
+
+A hybrid system—volunteer soldiers + professional military contractors—
+balances fairness, expertise, and survival probability.
+
 ⸻
 
-————
+II. Professional Contractors Reduce Casualties
+
+Professional military contractors often have:
+	•	prior combat experience
+	•	survival and tactical expertise
+	•	rapid adaptation to foreign environments
+	•	familiarity with weapons and high-risk operations
+
+This reduces unnecessary deaths that occur when inexperienced draftees
+(face danger without adequate training or real-world exposure).
+
+⸻
+
+III. Volunteers Remain Essential but Should Not Bear Full Risk
+
+Volunteers provide:
+	•	civic participation
+	•	national identity
+	•	stabilizing moral legitimacy
+
+But volunteers may lack the tactical skills of career fighters.
+A hybrid system prevents them from becoming the majority of frontline casualties.
+
+⸻
+
+IV. Why Not Mandatory Conscription?
+
+Mandatory draftees:
+	•	lack training
+	•	lack combat instincts
+	•	lack survival experience
+	•	become statistically more likely to die in frontline service
+
+This creates moral distortions:
+citizens with no expertise bear the highest risk simply because they were born into a draft system.
+
+A just system should not rely on “sacrifice by randomness.”
+
+⸻
+
+V. The Moral Logic of Lori’s Hybrid Model
+
+A hybrid model distributes risk rationally:
+	•	Highly trained professionals handle the most dangerous operations
+	•	Volunteers serve by genuine choice, not economic coercion
+	•	Society avoids random sacrifice
+	•	The state avoids relying on poverty-driven enlistment
+	•	War remains connected to democratic accountability, not outsourced entirely
+
+This system respects both life and liberty while maintaining national defense.
+
+⸻
+
+A just military system must protect both life and equality.
+The hybrid model aligns with this principle:
+	•	Expertise protects life
+	•	Volunteerism preserves freedom
+	•	Fair distribution of risk prevents class-based sacrifice
+	•	Democratic oversight prevents moral detachment from war
+
+A hybrid system does not eliminate sacrifice—
+it rationalizes it and humanizes it.
+
+⸻
+
 
 ✦ 正義論第5講：徵兵制 × 愛國義務 × 生命權
 
@@ -211,7 +288,7 @@ VII. 公平制度是義務正當性的唯一基礎
 
 ⸻
 
-LORI觀點（中文）
+# LORI觀點
 
 在 LORI 的政治哲學中，
 權利與義務必須形成完整的制度閉環。
@@ -236,77 +313,7 @@ LORI觀點（中文）
 
 完整制度生產公民；破碎制度生產犧牲者。
 
-✦ Lori’s Model: A Hybrid Military System for Justice and Effectiveness
-
-(English Version)
-
-I. Why a Hybrid System Is Preferable
-
-A purely mandatory draft violates autonomy and risks sacrificing inexperienced citizens.
-A purely volunteer army relies too heavily on economic inequality.
-A fully outsourced military commodifies life and disconnects war from society.
-
-A hybrid system—volunteer soldiers + professional military contractors—
-balances fairness, expertise, and survival probability.
-
-⸻
-
-II. Professional Contractors Reduce Casualties
-
-Professional military contractors often have:
-	•	prior combat experience
-	•	survival and tactical expertise
-	•	rapid adaptation to foreign environments
-	•	familiarity with weapons and high-risk operations
-
-This reduces unnecessary deaths that occur when inexperienced draftees
-(face danger without adequate training or real-world exposure).
-
-⸻
-
-III. Volunteers Remain Essential but Should Not Bear Full Risk
-
-Volunteers provide:
-	•	civic participation
-	•	national identity
-	•	stabilizing moral legitimacy
-
-But volunteers may lack the tactical skills of career fighters.
-A hybrid system prevents them from becoming the majority of frontline casualties.
-
-⸻
-
-IV. Why Not Mandatory Conscription?
-
-Mandatory draftees:
-	•	lack training
-	•	lack combat instincts
-	•	lack survival experience
-	•	become statistically more likely to die in frontline service
-
-This creates moral distortions:
-citizens with no expertise bear the highest risk simply because they were born into a draft system.
-
-A just system should not rely on “sacrifice by randomness.”
-
-⸻
-
-V. The Moral Logic of Lori’s Hybrid Model
-
-A hybrid model distributes risk rationally:
-	•	Highly trained professionals handle the most dangerous operations
-	•	Volunteers serve by genuine choice, not economic coercion
-	•	Society avoids random sacrifice
-	•	The state avoids relying on poverty-driven enlistment
-	•	War remains connected to democratic accountability, not outsourced entirely
-
-This system respects both life and liberty while maintaining national defense.
-
-⸻
-
-✦ Lori’s Hybrid System — 中文版
-
-I. 為什麼混合制更合理？
+# I. 為什麼混合制更合理？
 
 單一制度都有重大缺陷：
 	•	全面徵兵 → 犧牲大量沒有經驗的普通人
@@ -372,24 +379,6 @@ V. Lori 混合制的道德邏輯
 而不是由最弱勢或最隨機的人承擔。
 
 ⸻
-
-✦ LORI VIEW — 強化版哲學結論
-
-(English)
-
-A just military system must protect both life and equality.
-The hybrid model aligns with this principle:
-	•	Expertise protects life
-	•	Volunteerism preserves freedom
-	•	Fair distribution of risk prevents class-based sacrifice
-	•	Democratic oversight prevents moral detachment from war
-
-A hybrid system does not eliminate sacrifice—
-it rationalizes it and humanizes it.
-
-⸻
-
-(中文)
 
 一個正義的軍事制度必須同時守護「生命」與「平等」。
 
