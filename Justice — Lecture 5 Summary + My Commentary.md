@@ -1,4 +1,4 @@
-✦ Justice Lecture 5 — Conscription, Patriotism, and the Right to Life
+ Justice Lecture 5 — Conscription, Patriotism, and the Right to Life
 
 （English Version）
 
