@@ -29,6 +29,7 @@ Sandel presents three models of military recruitment:
 	•	Life is literally priced.
 	•	Wealthy citizens avoid service while others sell their risk.
 
+
 ⸻
 
 III. The Carnegie Substitution Example
@@ -389,4 +390,8 @@ V. Lori 混合制的道德邏輯
 	•	避免戰爭脫離民主控制
 
 混合制不是消除犧牲，而是 讓犧牲變得有理由、有正義性，而不是盲目與隨機。
+
+生命是不可剝奪的權利下，而每個死亡都必需有意義，而不該是隨機、階級化可避免的死亡。
+
+
 
