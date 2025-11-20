@@ -194,6 +194,40 @@ it rationalizes it and humanizes it.
 
 ⸻
 
+A just military system must safeguard both "life" and "equality."
+
+Core Spirit of a Hybrid Military System:
+
+Use expertise to reduce deaths
+Use voluntarism to uphold freedom and moral legitimacy
+Avoid sacrificing particular social classes
+Prevent war from escaping democratic control
+A hybrid system does not eliminate sacrifice, but allows sacrifice to have reason and justice, rather than being blind or random.
+
+Under the principle that life is an inalienable right, every death must be meaningful and should not be random or avoidable due to social class. But if life is inalienable, how can the state demand sacrifice?
+
+This is the deepest paradox in political philosophy:
+
+Life is an inalienable right (Locke)
+Yet wars necessarily entail casualties
+And the state possesses the power to allocate death
+Therefore, the real issue is not merely:
+
+“Is conscription fair?”
+
+Rather, it should include:
+
+“How does the state distribute death?”
+
+War forces the state to decide:
+
+Who goes to the front lines
+Who stays in the rear
+Who faces life-threatening danger
+Whose death is anticipated
+This is the real ethical core of conscription.
+
+------
 
 ✦ 正義論第5講：徵兵制 × 愛國義務 × 生命權
 
