@@ -101,6 +101,20 @@ obligations become oppression, not duty.
 
 ⸻
 
+✦ LORI VIEW
+
+A Civilized Duty Requires a Complete Institutional Circle
+
+From the LORI perspective, rights and duties must form a closed and complete institutional circle. If citizens enjoy rights but the system fails to distribute duties fairly, the political structure collapses into inequality, coercion, and moral distortion.
+
+A just system must ensure: • Equal starting conditions • A tax structure that prevents extreme wealth concentration • Duties that cannot be bought, substituted, or outsourced • Military service that reflects shared responsibility rather than class sacrifice • War that is defensive and morally legitimate—not aggressive • Patriotism based on free identification, not indoctrination
+
+Only when the institutional design is whole and fair can obligations truly become civic duties, not involuntary burdens.
+
+A broken system produces soldiers by coercion. A complete system produces citizens by dignity.
+
+⸻
+
 ————
 
 ✦ 正義論第5講：徵兵制 × 愛國義務 × 生命權
@@ -194,35 +208,6 @@ VII. 公平制度是義務正當性的唯一基礎
 
 否則：
 義務會變成壓迫，不是道德責任。
-
-⸻
-
-————
-
-✦ LORI VIEW（你的觀點精緻化版本）
-
-A Civilized Duty Requires a Complete Institutional Circle
-
-（英文）
-
-From the LORI perspective,
-rights and duties must form a closed and complete institutional circle.
-If citizens enjoy rights but the system fails to distribute duties fairly,
-the political structure collapses into inequality, coercion, and moral distortion.
-
-A just system must ensure:
-	•	Equal starting conditions
-	•	A tax structure that prevents extreme wealth concentration
-	•	Duties that cannot be bought, substituted, or outsourced
-	•	Military service that reflects shared responsibility rather than class sacrifice
-	•	War that is defensive and morally legitimate—not aggressive
-	•	Patriotism based on free identification, not indoctrination
-
-Only when the institutional design is whole and fair
-can obligations truly become civic duties, not involuntary burdens.
-
-A broken system produces soldiers by coercion.
-A complete system produces citizens by dignity.
 
 ⸻
 
