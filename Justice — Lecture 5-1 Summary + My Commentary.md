@@ -1,4 +1,4 @@
-1. Background — The Reproductive Market in Harvard’s Philosophy Course
+# Background — The Reproductive Market in Harvard’s Philosophy Course
 
 In Michael Sandel’s Justice lectures, he discusses the moral limits of markets using the reproductive market as an example.
 
@@ -58,7 +58,7 @@ Surrogacy is the most complex:
 
 ⸻
 
-4. Lori View — Philosophical Interpretation of Reproductive Markets
+# 4. Lori View — Philosophical Interpretation of Reproductive Markets
 
 Below is your perspective, rewritten in a refined philosophical structure, but preserving all your original ideas:
 
@@ -136,7 +136,7 @@ but it cannot fully predict the emotional reality of motherhood.
 
 ----
 
-1. 哈佛哲學課背景：生殖力市場
+# 1. 哈佛哲學課背景：生殖力市場
 
 在 Michael Sandel 的《Justice》課程中，常用以下案例：
 
@@ -207,7 +207,7 @@ but it cannot fully predict the emotional reality of motherhood.
 
 ⸻
 
-📌 Lori View — 生殖交易中的法律、身體與人性層次
+#  Lori View — 生殖交易中的法律、身體與人性層次
 
 生殖市場表面上是交易，但背後牽涉的不是物品，而是生命本身的來源。精子、卵子、胚胎與嬰兒在市場和法律裡的位置完全不同。
 
