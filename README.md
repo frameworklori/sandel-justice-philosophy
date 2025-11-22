@@ -8,6 +8,6 @@ Justice — Lecture 3 Summary + my Commentary [Do we own ourselves?]
 
 Justice — Lecture 4 Summary + my Commentary [How Locke’s Theory of Property Explains the Controversy of Original Land Distribution]
 
-Justice Lecture 5  Summary + my Commentary— [Conscription, Patriotism, and the Right to Life]
+Justice Lecture 5  Summary + my Commentary [Conscription, Patriotism, and the Right to Life]
 
-Justice Lecture 5-1   Summary + my Commentary— [The Reproductive Market in Harvard’s Philosophy Course]
+Justice Lecture 5-1   Summary + my Commentary [The Reproductive Market in Harvard’s Philosophy Course]
