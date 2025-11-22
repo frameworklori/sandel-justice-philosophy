@@ -60,11 +60,7 @@ Surrogacy is the most complex:
 
 # 4. Lori View — Philosophical Interpretation of Reproductive Markets
 
-Below is your perspective, rewritten in a refined philosophical structure, but preserving all your original ideas:
-
-⸻
-
-📌 Lori View — Law, Biology, and Human Emotion in Reproductive Markets
+## Lori View — Law, Biology, and Human Emotion in Reproductive Markets
 
 Reproductive markets appear economic on the surface, but beneath them lies the origin of human life. Sperm, eggs, embryos, babies, and surrogacy do not stand on the same moral ground.
 
@@ -201,13 +197,8 @@ but it cannot fully predict the emotional reality of motherhood.
 
 ⸻
 
-4. Lori View（完整版本）
 
-以下是把你原本的想法提升為哲學化、結構化的版本，同時保留你說的所有內容：
-
-⸻
-
-#  Lori View — 生殖交易中的法律、身體與人性層次
+# 4. Lori View — 生殖交易中的法律、身體與人性層次
 
 生殖市場表面上是交易，但背後牽涉的不是物品，而是生命本身的來源。精子、卵子、胚胎與嬰兒在市場和法律裡的位置完全不同。
 
