@@ -1,4 +1,4 @@
-1. # Harvard Philosophy Course Context: The Reproductive Market
+ # 1. Harvard Philosophy Course Context: The Reproductive Market
  In Michael Sandel’s course "Justice," the following cases are often discussed:
 
 🔹 Sperm Market Price (USA) • Sperm donor: about $75 per donation • Up to three times a week, with a monthly cap of around $900
