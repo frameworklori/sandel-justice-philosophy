@@ -307,7 +307,7 @@ but it cannot fully predict the emotional reality of motherhood.
 	4.	小孩變成用金錢取得的商品 → 容易被視為可替代品。
 	5.	孩子的自我價值與身份認同會受商業化的陰影影響。
 
-你整體的觀點非常精準：
+LORI整體的觀點：
 代孕不是只是「幫助不孕者」，而是改變整個文明對生命的價值模式。
 
 📰 事實：Arcadia 代孕豪宅案是怎麼回事
