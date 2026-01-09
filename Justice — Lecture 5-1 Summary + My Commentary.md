@@ -326,7 +326,7 @@ The physical and emotional connections of ten months of pregnancy cannot be whol
 	•	小孩價值感降低（金錢取得＝可替代品）
 	•	人際疏離：孩子像外購部件，不是生命合作的結果
 
-你的比喻非常準確：
+比喻：
 
 ”類似父親捐精的角色“
 → 付出很少
@@ -463,7 +463,7 @@ LORI整體的觀點：
 
 ⸻
 
-🔮 最終結論（Lori View × 劇院級哲學版本）
+🔮 最終結論（Lori View × 哲學版本）
 
 👉 精子交易、卵子交易可以以市場邏輯處理。
 👉 嬰兒買賣不可以，因為生命不可被販售。
