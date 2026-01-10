@@ -1,3 +1,153 @@
+# Lecture 7 | Justice: A Journey of Philosophical Inquiry
+
+Foundations of Moral Metaphysics (Immanuel Kant)
+I. Core Questions
+How can we balance duty and autonomy?
+What is the "great dignity" of fulfilling responsibility?
+II. Kant's Basic Position
+Duty, Motive, and Moral Value
+Kant maintains that:
+
+Helping others is itself a duty
+However, if the act of helping is grounded in conditions, exchange, self-interest, or consideration of consequences
+→ The moral value of that action becomes diminished
+Moral value does not derive from results, but from whether the motive springs from duty itself
+
+Autonomy and the Universalizable Law
+The core of Kant's moral law:
+
+An action must be capable of being universalized through reason
+The agent is not driven by external pressure, sensory desires, or public opinion
+Rather, the agent is guided by rational self-legislation (autonomy)
+Autonomy is not "doing whatever you want," but rather obeying laws that reason can universally legislate.
+
+This autonomy naturally generates moral obligation.
+
+Silence of the Majority ≠ Disappearance of Morality
+Even under powerful pressure to conform:
+
+Reason still demands that the autonomous agent
+Cannot abandon the duty to speak truth merely because the majority remains silent
+When law fails and institutions become imbalanced, When "everyone understands, but nobody speaks":
+
+Kant argues: The principle does not disappear; it exists in every person who remains autonomous
+(Examples: Tiananmen Square, White Paper Movement)
+
+Freedom vs. Causality (Contrast with David Hume)
+Action in the natural world is governed by causality
+Freedom belongs not to the sensory world, but to the rational world
+As rational subjects, humans cannot be completely determined by natural causality
+This stands in stark contrast to Hume's empiricist position
+
+III. The Problem of Lying and the "Categorical Imperative"
+The Classic Case: The Murderer at the Door
+The Problem:
+
+If a murderer comes to your door asking, "Is your friend hiding in your house?"
+
+Benjamin Constant's position: Only a madman would believe that telling the truth is moral in this case
+Kant's response: Even lying to the murderer is wrong
+The reason:
+
+Once you begin to make exceptions to the categorical imperative based on "consequences," you have already abandoned the entire moral framework and shifted toward consequentialism or rule utilitarianism.
+
+Michael Sandel's Defense of Kant
+Sandel asks: Is there a way to neither lie nor betray your friend?
+
+LORI's Response (Key Addition)
+LORI's approach is not to lie, but to refuse to answer and counter-question:
+
+Why are you looking for him?
+What is your purpose in finding him?
+What will you do once you find him?
+Do you know that murder is a crime?
+Do you have a family?
+If someone wanted to harm your family, what would you do?
+If you were arrested and imprisoned, who would care for your family? Wouldn't they grieve for you?
+This is not lying, but rather blocking unjust demands through reason. If persuasion fails, then enters justifiable self-defense/resistance.
+
+Within Kant's principle of "do not lie," a rational agent can still refuse unjust questioning and use reason to counter irrational violence.
+
+White Lies vs. Misleading Statements
+White lies: Lies told for the sake of consequences
+Kant does not accept this
+But he permits: "Misleading statements that do not directly reveal the truth"
+IV. Moral Analysis of the Bill Clinton Case
+Case: Bill Clinton × Monica Lewinsky
+LORI's Judgment:
+
+This case does not fall under white lies
+Nor is it merely misleading statements
+Rather, it is directly avoiding acknowledgment of the fact of "sexual conduct"
+In American social understanding:
+
+Oral sex constitutes sexual relations
+Therefore, it constitutes lying
+There is a clear moral defect
+V. Rational Subjects and the Ethics of the Minority
+Kant's Ethical Premise:
+A person must possess the capacity to be a rational subject
+Capable of understanding reasons
+Capable of taking responsibility for actions
+Not completely controlled by instinct or others
+⚠️ Key Point:
+
+Moral standards are not determined by what the majority actually does
+"Everyone does it" ≠ justification
+That is merely a social description, not an ethical principle
+👉 The minority who maintain rationality and honesty possess critical moral significance
+
+LORI's Reflection
+When I speak the truth, will I regret it? At least I will not afterwards feel guilty because I lied.
+
+VI. Contract, Justice, and Kant
+"A contract that generates principles of right is merely an idea of reason…" — Immanuel Kant
+
+The Justification of Contract:
+Not merely in paper or procedure
+But in whether it can be regarded as
+A legislative principle to which all rational subjects could possibly consent
+VII. Kant × John Rawls
+Rawls's Critique of Utilitarianism
+Each person possesses an inviolability founded on justice that even the welfare of society as a whole cannot override.
+
+Justice does not permit political exchange
+Individual rights cannot be offset by calculations of social benefit
+Hypothetical Contract (The Veil of Ignorance)
+The Question:
+
+Where does the moral binding force of a hypothetical contract derive?
+The Moral Force of Actual Contracts
+MORAL FORCE OF ACTUAL CONTRACTS
+
+a. Based on consent (Autonomy)
+b. Based on reciprocity
+Even if a contract is signed, it does not necessarily mean the contract itself is fair.
+
+VIII. Hume's House Painting Case
+Key Points of the Case:
+The homeowner did not directly sign a contract
+The work was necessary and completed well
+The court ruled the homeowner must pay
+LORI's Additional Analysis
+Original homeowner → Tenant → Sub-tenant → Painter
+The key question:
+Was the tenant clearly informed that "owner consent is required for modifications"?
+Were contractual responsibilities clearly defined?
+IX. Conclusion: The Only Path to Justice
+A truly fair contract must:
+
+Be grounded in honesty and truthfulness
+Have equal status of rights and awareness
+Not be subject to contingent factors
+Through a hypothetical contract (veil of ignorance), it becomes possible to simultaneously satisfy:
+
+Kant's autonomy
+Rawls's principles of justice
+Ask anything
+
+----
+
 # 第七講｜正義：一場思辨之旅
 
 道德形而上學基礎（Immanuel Kant）
