@@ -1,14 +1,17 @@
 # Lecture 7 | Justice: A Journey of Philosophical Inquiry
 
 Foundations of Moral Metaphysics (Immanuel Kant)
+
 I. Core Questions
 How can we balance duty and autonomy?
 What is the "great dignity" of fulfilling responsibility?
+
 II. Kant's Basic Position
 Duty, Motive, and Moral Value
 Kant maintains that:
 
 Helping others is itself a duty
+
 However, if the act of helping is grounded in conditions, exchange, self-interest, or consideration of consequences
 → The moral value of that action becomes diminished
 Moral value does not derive from results, but from whether the motive springs from duty itself
@@ -34,6 +37,7 @@ Kant argues: The principle does not disappear; it exists in every person who rem
 (Examples: Tiananmen Square, White Paper Movement)
 
 Freedom vs. Causality (Contrast with David Hume)
+
 Action in the natural world is governed by causality
 Freedom belongs not to the sensory world, but to the rational world
 As rational subjects, humans cannot be completely determined by natural causality
@@ -72,8 +76,11 @@ White Lies vs. Misleading Statements
 White lies: Lies told for the sake of consequences
 Kant does not accept this
 But he permits: "Misleading statements that do not directly reveal the truth"
+
 IV. Moral Analysis of the Bill Clinton Case
+
 Case: Bill Clinton × Monica Lewinsky
+
 LORI's Judgment:
 
 This case does not fall under white lies
@@ -84,29 +91,35 @@ In American social understanding:
 Oral sex constitutes sexual relations
 Therefore, it constitutes lying
 There is a clear moral defect
+
 V. Rational Subjects and the Ethics of the Minority
 Kant's Ethical Premise:
 A person must possess the capacity to be a rational subject
 Capable of understanding reasons
 Capable of taking responsibility for actions
 Not completely controlled by instinct or others
+
 ⚠️ Key Point:
 
 Moral standards are not determined by what the majority actually does
 "Everyone does it" ≠ justification
 That is merely a social description, not an ethical principle
+
 👉 The minority who maintain rationality and honesty possess critical moral significance
 
 LORI's Reflection
 When I speak the truth, will I regret it? At least I will not afterwards feel guilty because I lied.
 
+
 VI. Contract, Justice, and Kant
+
 "A contract that generates principles of right is merely an idea of reason…" — Immanuel Kant
 
 The Justification of Contract:
 Not merely in paper or procedure
 But in whether it can be regarded as
 A legislative principle to which all rational subjects could possibly consent
+
 VII. Kant × John Rawls
 Rawls's Critique of Utilitarianism
 Each person possesses an inviolability founded on justice that even the welfare of society as a whole cannot override.
@@ -125,6 +138,7 @@ b. Based on reciprocity
 Even if a contract is signed, it does not necessarily mean the contract itself is fair.
 
 VIII. Hume's House Painting Case
+
 Key Points of the Case:
 The homeowner did not directly sign a contract
 The work was necessary and completed well
