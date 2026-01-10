@@ -62,10 +62,15 @@ LORI's Response (Key Addition)
 LORI's approach is not to lie, but to refuse to answer and counter-question:
 
 Why are you looking for him?
+
 What is your purpose in finding him?
+
 What will you do once you find him?
+
 Do you know that murder is a crime?
+
 Do you have a family?
+
 If someone wanted to harm your family, what would you do?
 If you were arrested and imprisoned, who would care for your family? Wouldn't they grieve for you?
 This is not lying, but rather blocking unjust demands through reason. If persuasion fails, then enters justifiable self-defense/resistance.
@@ -166,13 +171,10 @@ Ask anything
 
 道德形而上學基礎（Immanuel Kant）
 
-⸻
-
 一、核心問題
 	1.	如何才能兼顧義務與自律？
 	2.	履行職責的「偉大尊嚴」是什麼？
 
-⸻
 
 二、康德的基本立場（Kant’s Behalf）
 
@@ -204,11 +206,13 @@ Ask anything
 3. 多數沉默 ≠ 道德消失
 
 即使在強大的從眾壓力下：
+
 	•	理性仍然要求自律的行動者
 不能因多數人的沉默而放棄說出真話的義務
 
 當法律失靈、制度失衡，
 當「大家都懂，但都不說」：
+
 	•	康德認為：
 道理不會消失，而是存在於每一個仍然自律的人身上
 
@@ -328,8 +332,7 @@ LORI 的反思
 
 契約的正當性：
 	•	不只是紙本或程序
-	•	而在於是否能被視為
-全體理性主體可能同意的立法原則
+	•	而在於是否能被視為全體理性主體可能同意的立法原則
 
 ⸻
 
